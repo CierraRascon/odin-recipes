@@ -1,3 +1,3 @@
 # odin-recipes
 
-3 Mouth Watering Recipes
+A basic website using newly learned html skills introducing three mouth watering recipes
